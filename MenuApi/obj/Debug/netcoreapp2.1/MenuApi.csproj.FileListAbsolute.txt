@@ -1,0 +1,14 @@
+/Users/davidk/tmp/Menu/MenuApi/bin/Debug/netcoreapp2.1/MenuApi.deps.json
+/Users/davidk/tmp/Menu/MenuApi/bin/Debug/netcoreapp2.1/MenuApi.runtimeconfig.json
+/Users/davidk/tmp/Menu/MenuApi/bin/Debug/netcoreapp2.1/MenuApi.runtimeconfig.dev.json
+/Users/davidk/tmp/Menu/MenuApi/bin/Debug/netcoreapp2.1/MenuApi.dll
+/Users/davidk/tmp/Menu/MenuApi/bin/Debug/netcoreapp2.1/MenuApi.pdb
+/Users/davidk/tmp/Menu/MenuApi/obj/Debug/netcoreapp2.1/MenuApi.csprojAssemblyReference.cache
+/Users/davidk/tmp/Menu/MenuApi/obj/Debug/netcoreapp2.1/MenuApi.csproj.CoreCompileInputs.cache
+/Users/davidk/tmp/Menu/MenuApi/obj/Debug/netcoreapp2.1/MenuApi.RazorAssemblyInfo.cache
+/Users/davidk/tmp/Menu/MenuApi/obj/Debug/netcoreapp2.1/MenuApi.RazorAssemblyInfo.cs
+/Users/davidk/tmp/Menu/MenuApi/obj/Debug/netcoreapp2.1/MenuApi.AssemblyInfoInputs.cache
+/Users/davidk/tmp/Menu/MenuApi/obj/Debug/netcoreapp2.1/MenuApi.AssemblyInfo.cs
+/Users/davidk/tmp/Menu/MenuApi/obj/Debug/netcoreapp2.1/MenuApi.RazorTargetAssemblyInfo.cache
+/Users/davidk/tmp/Menu/MenuApi/obj/Debug/netcoreapp2.1/MenuApi.dll
+/Users/davidk/tmp/Menu/MenuApi/obj/Debug/netcoreapp2.1/MenuApi.pdb
