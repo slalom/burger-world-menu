@@ -22,7 +22,7 @@ namespace MenuApi.Controllers
  _context.SaveChanges();
  }
  }
- // GET: api/Menu
+ // GET: api/item
  [HttpGet]
  public async Task<ActionResult<IEnumerable<Item>>> GetMenuItems()
  {
