@@ -1,7 +1,5 @@
 {
-  "ProjectFilePath": "/Users/davidk/tmp/Menu/MenuApi/MenuApi.csproj",
-  "TargetFramework": "netcoreapp2.1",
-  "TagHelpers": [],
+  "FilePath": "/Users/davidk/source/github/burger-world-menu/MenuApi/MenuApi.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -10,5 +8,12 @@
         "ExtensionName": "MVC-2.1"
       }
     ]
-  }
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "MenuApi",
+  "Documents": [],
+  "SerializationFormat": "0.2"
 }
